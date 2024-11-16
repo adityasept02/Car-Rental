@@ -1,5 +1,5 @@
-export const API = "http://localhost:8000/api";
-// export const API = "https://buy-sell-one.vercel.app/api";
+// export const API = "http://localhost:8000/api";
+export const API = "https://car-rental-backend-qj93.onrender.com/api";
 export const FIREBASE_API_KEY = "AIzaSyCdkG6khMtPztesRm1ayY2Qtw3XLj4mEzI";
 // export const FIREBASE_CONFIG = {
 //     apiKey: "AIzaSyDDK5O3i0wU-Ra54BEpxIJWlzhX_XV5kgU",
